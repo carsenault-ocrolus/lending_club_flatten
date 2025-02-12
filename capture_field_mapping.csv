@@ -1,0 +1,52 @@
+﻿ocrolus_form,ocrolus_key,doc_type,sub_type,section_name,attribute_key
+A_1040_2,Part1-General:lastName,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Member Name
+A_1040_2,Part1-General:yourFirstNameAndMiddleInitial,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Member Name
+A_1040_2,Part1-General:yourSocialSecurityNumber,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Social Security Number
+A_1040_2,Part1-General:year,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Tax Year
+A_1040_2,line1-WagesSalariesTipsEtc,Tax Returns,U.S. Individual Income Tax Return,Form 1040,"Line 1: Wages, salaries, tips, etc."
+A_1040_2,line2A-Tax-ExemptInterest,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 2a: Tax-exempt interest
+A_1040_2,line2B-TaxableInterest,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 2b: Taxable interest
+A_1040_2,line3A-QualifiedDividends,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 3a: Qualified dividends
+A_1040_2,line4A-IraDistributions,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 4a: IRA distributions
+A_1040_2,line5A-PensionAndAnnuities,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 5a: Pensions and annuities
+A_1040_2,line6A-SocialSecurityBenefits,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 6a: Social security benefits
+A_1040_2,line7-CapitalGainOr(Loss),Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 7: Capital gain or loss
+A_1040_2,line8-OtherIncomeFromSchedule1Line10,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 8: Other income from Schedule 1
+A_1040_2,:line9,Tax Returns,U.S. Individual Income Tax Return,Form 1040,Line 9: Total income
+BANK_ACCOUNT,account_holder,Bank Statement,Financial Statement,Bank Statement,Account Holder Name
+BANK_ACCOUNT,bank_name,Bank Statement,Financial Statement,Bank Statement,Bank Name
+BANK_ACCOUNT,account_number,Bank Statement,Financial Statement,Bank Statement,Account Number
+BANK_ACCOUNT,end_date,Bank Statement,Financial Statement,Bank Statement,Statement Date
+BANK_ACCOUNT,begin_date,Bank Statement,Financial Statement,Bank Statement,Statement Period
+BANK_ACCOUNT,end_date,Bank Statement,Financial Statement,Bank Statement,Statement Period
+4506_C,line3-CurrentName,IRS 4505C,IRS Identity Verification Letter,Form 4506-C,Taxpayer Name
+4506_C,a_4506_c-Part3-Signatures:signature,IRS 4505C,IRS Identity Verification Letter,Form 4506-C,Signature for Line 1a  Present (True/ False)
+4506_C,a_4506_c-Part3-Signatures:date,IRS 4505C,IRS Identity Verification Letter,Form 4506-C,Signature Date
+PAYSTUB,paystub-Part2-EmployeeDetails:taxpayerId,paystub,Employment Income Document,Pay Statement,Social Security Number
+PAYSTUB,$.paystub_details.pay_period_start_date,paystub,Employment Income Document,Pay Statement,Pay Period Start
+PAYSTUB,$.earnings.totals[0].current_pay.amount,paystub,Employment Income Document,Pay Statement,Gross Earnings
+PAYSTUB,$.paystub_details.pay_period_end_date,paystub,Employment Income Document,Pay Statement,Pay Period End
+PAYSTUB,$.net_pay.totals.current_pay.amount,paystub,Employment Income Document,Pay Statement,Net Earnings
+DRIVERS_LICENSE,drivers_license-General:firstName,Driver License,Government Identification,Driver's License,License Holder Name
+DRIVERS_LICENSE,drivers_license-General:lastName,Driver License,Government Identification,Driver's License,License Holder Name
+DRIVERS_LICENSE,drivers_license-General:middleName,Driver License,Government Identification,Driver's License,License Holder Name
+DRIVERS_LICENSE,drivers_license-General:dob,Driver License,Government Identification,Driver's License,Birth Date
+DRIVERS_LICENSE,drivers_license-General:expirationDate,Driver License,Government Identification,Driver's License,License Expiration
+W2,employeeName,W2,Wage and Tax Statement,Form W-2,Employee Name
+W2,employer,W2,Wage and Tax Statement,Form W-2,Employer Details
+W2,medicareWagesAndTips,W2,Wage and Tax Statement,Form W-2,Medicare Wages and Tips
+W2,socialSecurityTaxWithheld,W2,Wage and Tax Statement,Form W-2,Social Security Tax Withheld
+W2,medicareTaxWithheld,W2,Wage and Tax Statement,Form W-2,Medicare Tax Withheld
+a_1040_schedule_c_2,General:year,Tax Returns,U.S. Individual Income Tax Return,Schedule C,Tax year
+a_1040_schedule_c_2,General:nameOfProprietor,Tax Returns,U.S. Individual Income Tax Return,Schedule C,Name of Proprietor 
+a_1040_schedule_c_2,General:a-PrincipalBusinessOrProfessionIncludingProductOrService,Tax Returns,U.S. Individual Income Tax Return,Schedule C,Principal Business or Profession 
+a_1040_schedule_c_2,General:c-BusinessName,Tax Returns,U.S. Individual Income Tax Return,Schedule C,Business name
+a_1040_schedule_c_2,line30-ExpensesForBusinessUseOfYourHome,Tax Returns,U.S. Individual Income Tax Return,Schedule C,Line 30: Expenses for business use of home
+a_1040_schedule_c_2,Expenses:line31-NetProfitOr(Loss),Tax Returns,U.S. Individual Income Tax Return,Schedule C,Line 31: Net profit or loss
+PASSPORT,passport-General:firstName,Passport,Government Identification,Passport,License Holder Name
+PASSPORT,passport-General:middleName,Passport,Government Identification,Passport,License Holder Name
+PASSPORT,passport-General:lastName,Passport,Government Identification,Passport,License Holder Name
+PASSPORT,passport-General:dateOfBirth,Passport,Government Identification,Passport,Birth Date
+PASSPORT,passport-General:expirationDate,Passport,Government Identification,Passport,Passport Expiration
+PASSPORT,passport-General:issuingCountry,Passport,Government Identification,Passport,Issuing Country
+PASSPORT,passport-General:passportNumber,Passport,Government Identification,Passport,Passport Number
